@@ -1,0 +1,13 @@
+C:\Users\Student\workspace\Side Project\Number game\NumberGuessing\bin\Debug\netcoreapp3.1\NumberGuessing.exe
+C:\Users\Student\workspace\Side Project\Number game\NumberGuessing\bin\Debug\netcoreapp3.1\NumberGuessing.deps.json
+C:\Users\Student\workspace\Side Project\Number game\NumberGuessing\bin\Debug\netcoreapp3.1\NumberGuessing.runtimeconfig.json
+C:\Users\Student\workspace\Side Project\Number game\NumberGuessing\bin\Debug\netcoreapp3.1\NumberGuessing.runtimeconfig.dev.json
+C:\Users\Student\workspace\Side Project\Number game\NumberGuessing\bin\Debug\netcoreapp3.1\NumberGuessing.dll
+C:\Users\Student\workspace\Side Project\Number game\NumberGuessing\bin\Debug\netcoreapp3.1\NumberGuessing.pdb
+C:\Users\Student\workspace\Side Project\Number game\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.csprojAssemblyReference.cache
+C:\Users\Student\workspace\Side Project\Number game\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\Side Project\Number game\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.AssemblyInfo.cs
+C:\Users\Student\workspace\Side Project\Number game\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\Side Project\Number game\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.dll
+C:\Users\Student\workspace\Side Project\Number game\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.pdb
+C:\Users\Student\workspace\Side Project\Number game\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.genruntimeconfig.cache
